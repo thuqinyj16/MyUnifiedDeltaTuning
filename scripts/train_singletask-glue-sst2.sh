@@ -1,5 +1,6 @@
 cd ../src
 
+
 TASKS="glue-sst2"
 DATA_DIR=data
 TUNE_METHOD=PET_mc
